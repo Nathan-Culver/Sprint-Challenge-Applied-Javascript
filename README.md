@@ -31,14 +31,21 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+The DOM is a tree structure language-independent api and object representation of the document source code that can be manipuated. 
 
 2. What is an event?
+An Event is an object and is based on the Event interface.  
 
 3. What is an event listener?
+An eventListener lisZens for something to happen and triggers when that situation is true.
 
 4. Why would we convert a NodeList into an Array?
+To utilize features available to arrays. 
 
 5. What is a component?
+Components are small & re-usable bits of code that should be specific enough so that it does not unintentionally affect large portions of the site. Also other users should able to take the component and drop it into their existing code to use. 
+
+"And without components or component-based UI development, our applications become monolithic spaghetti monsters and nightmares" -Google
 
 ### Git Set up
 
